@@ -3,7 +3,7 @@
 all key will be camel cased , string values starts with small letter
 
 ##### api schema:
-
+```
 {
 mealId: Number,
 mealTitle: String,
@@ -14,6 +14,8 @@ mealTags: [String],
 mealPrice: Number,
 mealQuantity: Number,
 }
+
+```
 
 each category will have id range
 
