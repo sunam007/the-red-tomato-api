@@ -1,0 +1,10 @@
+// {
+//     mealId: 99241,
+//     mealTitle: "Thai Fried Rice",
+//     mealCategory: "Rice and Noodles",
+//     mealThumb: "",
+//     mealThumbSmall:"",
+//     mealPrice: 150,
+//     mealQuantity: null,
+//     mealTags: [""],
+//   },

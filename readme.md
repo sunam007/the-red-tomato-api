@@ -1,15 +1,16 @@
 ### naming convention:
 
-all key will be camel cased , string values starts with small letter
+all key will be camel cased , string values start with Capital letter
 
 ### api schema:
+
 follows mongoose Schema
 
 ```
 {
 mealId: Number,
 mealTitle: String,
-mealCatecory: String,
+mealCategory: String,
 mealThumb: String,
 mealThumbSmall:String,
 mealTags: [String],
@@ -23,15 +24,16 @@ mealQuantity: Number,
 
 each category will have id range
 
-appetizer => 101-120
-main dish => 121-140
-salad => 141-160
-soup => 161-180
-vegetables => 181-200
-vegeterian => 201-220
-fish => 221-240
-rice and noodles => 241-260
-drinks => 261-280
+Appetizer => 101-120
+Main dish => 121-140
+Salad => 141-160
+Soup => 161-180
+Vegetables => 181-200
+Vegetarian => 201-220
+Fish => 221-240
+Rice and Noodles => 241-260
+Drinks => 261-280
+Biriyani => 281-300
 
 ### image thumb resolution
 
