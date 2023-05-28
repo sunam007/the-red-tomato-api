@@ -2,7 +2,7 @@
 
 all key will be camel cased , string values starts with small letter
 
-#### api schema:
+### api schema:
 follows mongoose Schema
 
 ```
@@ -19,7 +19,7 @@ mealQuantity: Number,
 
 ```
 
-#### category & id range:
+### category & id range:
 
 each category will have id range
 
@@ -33,7 +33,7 @@ fish => 221-240
 rice and noodles => 241-260
 drinks => 261-280
 
-#### image thumb resolution
+### image thumb resolution
 
 main => 700x700 px
 small => 300x300 px
