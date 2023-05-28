@@ -1,0 +1,60 @@
+// appetizer id range = 101-120
+
+meals = [
+  {
+    mealId: 99100,
+    mealTitle: "K",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 150,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99101,
+    mealTitle: "Fried Wonton",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 150,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99102,
+    mealTitle: "Chicken Spring Role",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 150,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99103,
+    mealTitle: "Dumplings",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 250,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99104,
+    mealTitle: "Fish Finger",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 250,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99105,
+    mealTitle: "Veg Kebab",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 150,
+    mealQuantity: null,
+  },
+  {
+    mealId: 99106,
+    mealTitle: "Fried Prawn Ball",
+    mealCategory: "Appetizer",
+    mealThumb: "",
+    mealPrice: 250,
+    mealQuantity: null,
+  },
+];
