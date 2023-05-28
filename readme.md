@@ -3,6 +3,8 @@
 all key will be camel cased , string values starts with small letter
 
 #### api schema:
+follows mongoose Schema
+
 ```
 {
 mealId: Number,
