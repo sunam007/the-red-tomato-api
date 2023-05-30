@@ -37,5 +37,5 @@ mealQuantity: Number,
 
 ### image thumb resolution
 
-main => 700x700 px
-small => 300x300 px
+ main => 800x600 px (4:3 aspect ratio )
+ small => 300x300 px (1:1 aspect ratio )
