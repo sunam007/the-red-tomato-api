@@ -36,5 +36,5 @@ mealQuantity: Number,
 - Biriyani => 281-300
 
 ### image thumb resolution
- main => 800x600 px (4:3 aspect ratio )
-  small => 300x300 px (1:1 aspect ratio )
+ - main => 800x600 px (4:3 aspect ratio )
+ - small => 300x300 px (1:1 aspect ratio )
