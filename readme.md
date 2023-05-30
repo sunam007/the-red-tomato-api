@@ -22,18 +22,18 @@ mealQuantity: Number,
 
 ### category & id range:
 
-each category will have id range
+ each category will have id range
 
-Appetizer => 101-120
-Main dish => 121-140
-Salad => 141-160
-Soup => 161-180
-Vegetables => 181-200
-Vegetarian => 201-220
-Fish => 221-240
-Rice and Noodles => 241-260
-Drinks => 261-280
-Biriyani => 281-300
+- Appetizer => 101-120
+- Main dish => 121-140
+- Salad => 141-160
+- Soup => 161-180
+- Vegetables => 181-200
+- Vegetarian => 201-220
+- Fish => 221-240
+- Rice and Noodles => 241-260
+- Drinks => 261-280
+- Biriyani => 281-300
 
 ### image thumb resolution
 
