@@ -3,7 +3,7 @@
     mealId: 99161,
     mealTitle: "Thai Tom Yum Soup",
     mealCategory: "Soup",
-    mealThumb: "",
+    mealThumb: "https://i.ibb.co/F4LKp4b/tom-yum.jpg",
     mealThumbSmall: "",
     mealPrice: 250,
     mealQuantity: null,
